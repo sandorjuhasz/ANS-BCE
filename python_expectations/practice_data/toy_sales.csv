@@ -1,0 +1,37 @@
+order_id,customer_id,product,region,quantity,amount
+O001,C04,Notebook,North,1,3
+O002,C07,Backpack,East,1,45
+O003,C04,Notebook,North,5,15
+O004,C07,Notebook,East,5,15
+O005,C02,Water Bottle,South,5,60
+O006,C01,Headphones,East,5,400
+O007,C07,Notebook,East,2,6
+O008,C01,Headphones,East,2,160
+O009,C05,Backpack,North,2,90
+O010,C02,Headphones,South,3,240
+O011,C03,Notebook,West,5,15
+O012,C04,Desk Lamp,North,1,25
+O013,C02,Headphones,South,1,80
+O014,C04,Backpack,North,5,225
+O015,C07,Desk Lamp,East,4,100
+O016,C08,Desk Lamp,North,3,75
+O017,C04,Water Bottle,North,2,24
+O018,C02,Headphones,South,3,240
+O019,C08,Desk Lamp,North,4,100
+O020,C05,Headphones,North,1,80
+O021,C02,Headphones,South,4,320
+O022,C03,Desk Lamp,West,2,50
+O023,C08,Backpack,North,1,45
+O024,C02,Headphones,South,5,400
+O025,C06,Desk Lamp,North,3,75
+O026,C08,Headphones,North,4,320
+O027,C02,Notebook,South,3,9
+O028,C08,Notebook,North,1,3
+O029,C05,Headphones,North,4,320
+O030,C05,Backpack,North,3,135
+O031,C01,Backpack,East,3,135
+O032,C03,Headphones,West,1,80
+O033,C08,Notebook,North,2,6
+O034,C05,Water Bottle,North,2,24
+O035,C07,Backpack,East,4,180
+O036,C02,Water Bottle,South,4,48
